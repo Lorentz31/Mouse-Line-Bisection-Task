@@ -1,0 +1,2 @@
+# Mouse-Line-Bisection-Task
+This repository contains a Python file for the execution of my first experiment: the "Mouse Line Bisection Task". This experiment aims at detecting the ability and the accuracy of a human subject to split a physical line into two equal parts. Lines are different in length and slope, and all combinations take 40 trials totally. Subjects are required to press the left mouse key to accomplish the task.
